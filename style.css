@@ -194,7 +194,8 @@ section .title span::after{
   height: 400px;
   width: 400px;
   object-fit: cover;
-  border-radius: 15px;
+  border:7px groove limegreen;
+  border-radius: 200px;
 }
 .about-details .right{
   width: 55%;
