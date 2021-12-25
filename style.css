@@ -188,12 +188,13 @@ section .title span::after{
 }
 .about .about-details .left{
   width: 45%;
+  margin-left:40px;
 }
 .about .left img{
   height: 400px;
   width: 400px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 15px;
 }
 .about-details .right{
   width: 55%;
@@ -244,6 +245,7 @@ section .button button:hover{
  }
  .hobbies-details .text{
    width: 45%;
+   margin-left:40px;
  }
  .hobbies-details p{
    color: white;
